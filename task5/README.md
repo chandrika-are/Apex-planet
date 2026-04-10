@@ -71,7 +71,7 @@ During this internship, I worked on real-world datasets and business problems in
 * Documented skills and learnings
 
 📌 **Repository:**
-👉 https://github.com/kruthikakkamgari/Apexplanet/tree/main
+👉 https://github.com/chandrika-are/Apex-planet/tree/main/task5
 
 ---
 
